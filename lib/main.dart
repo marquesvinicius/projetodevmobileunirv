@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:projetodevmobileunirv/telainicial.dart';
+import 'package:projetodevmobileunirv/atividade02-08.dart';
 
 void main() {
-  runApp(MaterialApp(home: TelaInicial()));
+  runApp(MaterialApp(home: FormularioValidacao(), theme: ThemeData(useMaterial3: false)));
 }
