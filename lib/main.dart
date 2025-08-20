@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:projetodevmobileunirv/atividade09-08.dart';
+import 'package:projetodevmobileunirv/atividade_validacao_chamada.dart';
 
 void main() {
-  runApp(MaterialApp(home: Atividade0908(), theme: ThemeData(useMaterial3: false)));
+  runApp(const ValidacaoChamadaApp());
 }
