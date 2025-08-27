@@ -54,3 +54,4 @@ class _BotaoAlternarBackgroundState extends State<BotaoAlternarBackground> {
     );
   }
 }
+

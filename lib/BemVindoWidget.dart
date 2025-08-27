@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 
 class BemVindoWidget extends StatelessWidget {
+  const BemVindoWidget({super.key});
+
     @override
     Widget build(BuildContext context) {
         return Container(
